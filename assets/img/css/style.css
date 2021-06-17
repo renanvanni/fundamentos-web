@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Estilos da página index.html*/
+
+.center{
+    text-align: center;
+}
+
+.batatinha{
+    text-align: justify;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container2{
+    display: flexbox;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li{
+    display: inline;
+    padding: 20px;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#menu li a:hover{
+    color: #546de5;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.br-50{
+    border-radius: 50%;
+}
+
+.wh{
+    width: 300px;
+    height: 400px;
+}
+
+.tm{
+    width: 50px;
+    height: 50px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+/*Estilos da página contato.html*/
+
+.espaco{
+    justify-content: space-around;
+}
+
+.letra{
+    color: #546de5;
+}
+
+/*Estilos da página curiosidades.html*/
+
+.meio{
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+}
+
+.alinhamento{
+    align-items: center;
+}
