@@ -1,0 +1,28 @@
+.corJumbu{
+    background-color: rgb(65, 57, 37);
+}
+
+.corBase{
+    background-color: rgb(97, 79, 59);
+}
+
+.corBorda{
+    padding: 2px;
+}
+
+.figuras{
+    height: 40px;
+    width: 40px;
+}
+
+.borda{
+    border: 1px;
+    border-radius: 4px;
+}
+
+.container2{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
